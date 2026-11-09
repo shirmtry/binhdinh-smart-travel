@@ -1,0 +1,23 @@
+{
+  "name": "binhdinh-smart-travel",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Du lịch thông minh Bình Định 2026 - gợi ý lịch trình theo sở thích & thời tiết mùa mưa lũ - HTK 0396241674",
+  "author": "HTK <htk.contact@gmail.com> (https://zalo.me/0396241674)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^11.11.17",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
